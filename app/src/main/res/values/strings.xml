@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewModified</string>
+    <string name="url">http://lucidys.com</string>
+</resources>
